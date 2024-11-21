@@ -57,144 +57,24 @@
     "showFrom": true,
     "style": "desc",
     "gapDelay": 0.05,
-    "content": "Hello💫，这里是kasuieの主页",
-    "desc": "kasuie是自己胡乱起的，也可以叫我暖暖;已经毕业快两年半了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
+    "content": "Hello💫，这里是py1029の主页",
+    "desc": "未毕业大学生，未来就想搞钱，好耶！🥰"
   },
   "links": [
     {
-      "title": "qq",
-      "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
-      "icon": "qq"
-    },
-    {
-      "title": "telegram",
-      "color": "#1da1f2",
-      "url": "https://t.me/PixivLips",
-      "icon": "telegram"
-    },
-    {
       "title": "github",
       "color": "#000000",
-      "url": "https://github.com/kasuie",
+      "url": "https://github.com/py1029/py1029.github.io",
       "icon": "github"
     },
-    {
-      "title": "twitter",
-      "color": "#1da1f2",
-      "url": "https://twitter.com/kasuie3",
-      "icon": "twitter"
-    },
-    {
-      "title": "email",
-      "color": "#fd3232",
-      "url": "mailto:i@kasuie.cc",
-      "icon": "email"
-    },
-    {
-      "title": "steam",
-      "color": "#000000",
-      "url": "https://s.team/p/fhwd-fwbn/NWWVGPJV",
-      "icon": "steam"
-    },
+    
     {
       "title": "bilibili",
       "color": "#0088cc",
-      "url": "https://space.bilibili.com/85447052",
+      "url": "https://space.bilibili.com/390348930?spm_id_from=333.788.0.0",
       "icon": "bilibili"
     }
-  ],
-  "sites": [
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://kasuie.cc",
-      "desc": "博客主页"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "Mio 导航",
-      "url": "https://nav.kasuie.cc",
-      "desc": "Mio 网站导航"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "KASUIEのAI",
-      "url": "https://ai.kasuie.cc",
-      "desc": "ChatGPT"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "KASUIEの库",
-      "url": "https://dist.kasuie.cc",
-      "desc": "网盘挂载程序"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/0d2e7fe7-3cca-4989-9bb4-4a39cee77801.png!cover",
-      "title": "KASUIEの图床",
-      "url": "https://upload.kasuie.cc",
-      "desc": "图床服务"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "监控服务",
-      "url": "https://status.kasuie.cc/status",
-      "desc": "服务程序监控"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEのDocs",
-      "url": "https://docs.kasuie.cc",
-      "desc": "文档服务"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "杂七杂八",
-      "desc": "阿巴阿巴..."
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "喜好生成表",
-      "url": "https://like.kasuie.cc",
-      "desc": "个人喜好生成表"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://hexo.kasuie.cc",
-      "desc": "Hexo版本博客程序"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v3.kasuie.cc",
-      "desc": "上版本的博客程序(服务关了"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v2.kasuie.cc",
-      "desc": "早期博客主题(v2)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v1.kasuie.cc",
-      "desc": "早期博客主题(v1)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v0.kasuie.cc",
-      "desc": "早期博客主题(v0)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
-      "title": "KASUIEの导航",
-      "url": "https://pixlips.github.io",
-      "desc": "导航页(beta)"
-    }
-  ],
+  ], 
   "sitesConfig": {
     "hidden": false,
     "cardStyle": "",
@@ -203,7 +83,7 @@
     "hoverFlip": true,
     "direction": "row",
     "modal": true,
-    "modalTips": "这里大多都是初学时开发的，算是练手的，技术力不高，看起来也很不好看，算是黑历史，但也算是一段记忆的载体了，所以我想把它保存在此。",
+    "modalTips": "原作者https://github.com/kasuie/remio-home",
     "modalTitle": ""
   },
   "socialConfig": {
